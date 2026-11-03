@@ -1,0 +1,6 @@
+__pycache__
+.env
+dataset/
+.db
+.venv/
+test/*.html

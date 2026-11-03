@@ -1,0 +1,2966 @@
+{
+    "office": {
+        "aliases": [
+            "office"
+        ],
+        "children": {
+            "excel": {
+                "aliases": [
+                    "excel",
+                    "tablas dinamicas",
+                    "macros"
+                ]
+            },
+            "word": {
+                "aliases": [
+                    "word"
+                ]
+            },
+            "powerpoint": {
+                "aliases": [
+                    "power point",
+                    "powerpoint"
+                ]
+            },
+            "project": {
+                "aliases": [
+                    "microsoft project",
+                    "ms project",
+                    "ms. project"
+                ]
+            },
+            "outlook": {
+                "aliases": [
+                    "outlook"
+                ]
+            },
+            "onedrive": {
+                "aliases": [
+                    "onedrive",
+                    "one drive"
+                ]
+            },
+            "sharepoint": {
+                "aliases": [
+                    "sharepoint"
+                ]
+            },
+            "teams": {
+                "aliases": [
+                    "teams",
+                    "microsoft teams"
+                ]
+            }
+        }
+    },
+    "google workspace": {
+        "aliases": [
+            "google workspace"
+        ],
+        "children": {
+            "google sheets": {
+                "aliases": [
+                    "google sheets"
+                ]
+            },
+            "google docs": {
+                "aliases": [
+                    "google docs"
+                ]
+            },
+            "google forms": {
+                "aliases": [
+                    "google forms"
+                ]
+            },
+            "google slides": {
+                "aliases": [
+                    "google slides"
+                ]
+            }
+        }
+    },
+    "gestion de proyectos": {
+        "aliases": [
+            "gestion de proyectos",
+            "administracion de proyectos",
+            "project management"
+        ],
+        "children": {
+            "lean": {
+                "aliases": [
+                    "lean",
+                    "lean six sigma"
+                ]
+            },
+            "scrum": {
+                "aliases": [
+                    "scrum"
+                ]
+            },
+            "kanban": {
+                "aliases": [
+                    "kanban"
+                ]
+            },
+            "pmbok": {
+                "aliases": [
+                    "pmbok"
+                ]
+            },
+            "trello": {
+                "aliases": [
+                    "trello"
+                ]
+            },
+            "jira": {
+                "aliases": [
+                    "jira"
+                ]
+            }
+        }
+    },
+    "normas iso": {
+        "aliases": [
+            "normas iso"
+        ],
+        "children": {
+            "iso 9001": {
+                "aliases": [
+                    "iso 9001"
+                ]
+            },
+            "iso 14001": {
+                "aliases": [
+                    "iso 14001"
+                ]
+            },
+            "iso 45001": {
+                "aliases": [
+                    "iso 45001"
+                ]
+            },
+            "iso 22000": {
+                "aliases": [
+                    "iso 22000"
+                ]
+            },
+            "iso 27001": {
+                "aliases": [
+                    "iso 27001"
+                ]
+            },
+            "iso 37001": {
+                "aliases": [
+                    "iso 37001"
+                ]
+            },
+            "iso 15189": {
+                "aliases": [
+                    "iso 15189"
+                ]
+            },
+            "iso 50001": {
+                "aliases": [
+                    "iso 50001"
+                ]
+            },
+            "iso 31000": {
+                "aliases": [
+                    "iso 31000"
+                ]
+            },
+            "iso 22301": {
+                "aliases": [
+                    "iso 22301"
+                ]
+            },
+            "iso 13485": {
+                "aliases": [
+                    "iso 13485"
+                ]
+            },
+            "iso 17025": {
+                "aliases": [
+                    "iso 17025"
+                ]
+            },
+            "iso 20000": {
+                "aliases": [
+                    "iso 20000"
+                ]
+            }
+        }
+    },
+    "lenguajes de programacion": {
+        "aliases": [
+            "lenguaje de programacion",
+            "lenguajes de programacion"
+        ],
+        "children": {
+            "cobol": {
+                "aliases": [
+                    "cobol"
+                ]
+            },
+            "c#": {
+                "aliases": [
+                    "c#",
+                    "csharp",
+                    "c sharp"
+                ]
+            },
+            "golang": {
+                "aliases": [
+                    "golang"
+                ]
+            },
+            "java": {
+                "aliases": [
+                    "java",
+                    "jpython",
+                    "jython"
+                ]
+            },
+            "python": {
+                "aliases": [
+                    "python",
+                    "jpython",
+                    "jython"
+                ]
+            },
+            "php": {
+                "aliases": [
+                    "php"
+                ]
+            },
+            "swift": {
+                "aliases": [
+                    "swift"
+                ]
+            },
+            "kotlin": {
+                "aliases": [
+                    "kotlin"
+                ]
+            },
+            "rust": {
+                "aliases": [
+                    "rust"
+                ]
+            },
+            "ruby": {
+                "aliases": [
+                    "ruby"
+                ]
+            },
+            "javascript": {
+                "aliases": [
+                    "javascript",
+                    "js",
+                    "html/css/js",
+                    "html/js/css"
+                ]
+            },
+            "typescript": {
+                "aliases": [
+                    "typescript",
+                    "ts"
+                ]
+            },
+            "html": {
+                "aliases": [
+                    "html",
+                    "html/css/js",
+                    "html/js/css"
+                ]
+            },
+            "css": {
+                "aliases": [
+                    "css",
+                    "html/css/js",
+                    "html/js/css"
+                ]
+            },
+            "visual basic": {
+                "aliases": [
+                    "visual basic"
+                ]
+            },
+            "scala": {
+                "aliases": [
+                    "scala"
+                ]
+            },
+            "matlab": {
+                "aliases": [
+                    "matlab"
+                ]
+            }
+        }
+    },
+    "frontend": {
+        "aliases": [
+            "frontend",
+            "front-end"
+        ],
+        "children": {
+            "jquery": {
+                "aliases": [
+                    "jquery"
+                ]
+            },
+            "bootstrap": {
+                "aliases": [
+                    "bootstrap"
+                ]
+            },
+            "react": {
+                "aliases": [
+                    "react",
+                    "reactjs",
+                    "react.js"
+                ]
+            },
+            "vue": {
+                "aliases": [
+                    "vue",
+                    "vuejs",
+                    "vue.js"
+                ]
+            },
+            "angular": {
+                "aliases": [
+                    "angular",
+                    "angularjs",
+                    "angular.js"
+                ]
+            },
+            "node.js": {
+                "aliases": [
+                    "node",
+                    "nodejs",
+                    "node.js"
+                ]
+            },
+            "astro": {
+                "aliases": [
+                    "astro"
+                ]
+            },
+            "flutter": {
+                "aliases": [
+                    "flutter"
+                ]
+            },
+            "nginx": {
+                "aliases": [
+                    "nginx"
+                ]
+            }
+        }
+    },
+    "backend": {
+        "aliases": [
+            "backend"
+        ],
+        "children": {
+            "laravel": {
+                "aliases": [
+                    "laravel"
+                ]
+            },
+            "spring boot": {
+                "aliases": [
+                    "springboot",
+                    "spring boot"
+                ]
+            },
+            "nest.js": {
+                "aliases": [
+                    "nest",
+                    "nestjs",
+                    "nest.js"
+                ]
+            },
+            ".net": {
+                "aliases": [
+                    ".net",
+                    "asp.net",
+                    "net core",
+                    ".net core",
+                    ".net framework"
+                ]
+            },
+            "django": {
+                "aliases": [
+                    "django"
+                ]
+            },
+            "flask": {
+                "aliases": [
+                    "flask"
+                ]
+            },
+            "fastapi": {
+                "aliases": [
+                    "fastapi"
+                ]
+            },
+            "express.js": {
+                "aliases": [
+                    "express",
+                    "expressjs",
+                    "express.js"
+                ]
+            },
+            "ruby on rails": {
+                "aliases": [
+                    "ruby on rails",
+                    "rails"
+                ]
+            },
+            "arquitectura limpia": {
+                "aliases": [
+                    "clean architecture",
+                    "arquitectura limpia"
+                ]
+            },
+            "arquitectura hexagonal": {
+                "aliases": [
+                    "hexagonal architecture",
+                    "arquitectura hexagonal"
+                ]
+            },
+            "microservicios": {
+                "aliases": [
+                    "microservicios",
+                    "microservices"
+                ]
+            }
+        }
+    },
+    "desarrollo movil": {
+        "aliases": [
+            "desarrollo movil",
+            "desarrollo mobile"
+        ],
+        "children": {
+            "flutter": {
+                "aliases": [
+                    "flutter"
+                ]
+            },
+            "android studio": {
+                "aliases": [
+                    "android studio"
+                ]
+            },
+            "react native": {
+                "aliases": [
+                    "react native"
+                ]
+            },
+            "xcode": {
+                "aliases": [
+                    "xcode",
+                    "x-code"
+                ]
+            },
+            "swiftui": {
+                "aliases": [
+                    "swiftui",
+                    "swift-ui"
+                ]
+            },
+            "jetpack compose": {
+                "aliases": [
+                    "jetpack compose"
+                ]
+            }
+        }
+    },
+    "api": {
+        "aliases": [
+            "api"
+        ],
+        "children": {
+            "soap": {
+                "aliases": [
+                    "soap"
+                ]
+            },
+            "rest": {
+                "aliases": [
+                    "rest",
+                    "restful"
+                ]
+            },
+            "graphql": {
+                "aliases": [
+                    "graphql"
+                ]
+            },
+            "websockets": {
+                "aliases": [
+                    "websockets",
+                    "web sockets",
+                    "websocket"
+                ]
+            },
+            "grpc": {
+                "aliases": [
+                    "grpc",
+                    "g-rpc"
+                ]
+            }
+        }
+    },
+    "sql": {
+        "aliases": [
+            "sql",
+            "bases de datos relacionales",
+            "base de datos relacional"
+        ],
+        "children": {
+            "mysql": {
+                "aliases": [
+                    "mysql"
+                ]
+            },
+            "sql server": {
+                "aliases": [
+                    "sql server",
+                    "microsoft sql server",
+                    "ms sql server"
+                ]
+            },
+            "postgresql": {
+                "aliases": [
+                    "postgresql",
+                    "postgres"
+                ]
+            },
+            "mariadb": {
+                "aliases": [
+                    "maria db",
+                    "mariadb"
+                ]
+            },
+            "sqlite": {
+                "aliases": [
+                    "sqlite"
+                ]
+            },
+            "oracle": {
+                "aliases": [
+                    "oracle"
+                ]
+            },
+            "db2": {
+                "aliases": [
+                    "db2",
+                    "ibm db2"
+                ]
+            },
+            "sybase": {
+                "aliases": [
+                    "sybase"
+                ]
+            }
+        }
+    },
+    "nosql": {
+        "aliases": [
+            "nosql",
+            "no sql",
+            "bases de datos no relacionales",
+            "base de datos no relacional"
+        ],
+        "children": {
+            "mongodb": {
+                "aliases": [
+                    "mongodb"
+                ]
+            },
+            "dynamodb": {
+                "aliases": [
+                    "dynamodb"
+                ]
+            },
+            "redis": {
+                "aliases": [
+                    "redis"
+                ]
+            },
+            "couchdb": {
+                "aliases": [
+                    "couchdb",
+                    "couch db"
+                ]
+            },
+            "firebase": {
+                "aliases": [
+                    "firebase",
+                    "firestore"
+                ]
+            },
+            "cassandra": {
+                "aliases": [
+                    "cassandra",
+                    "apache cassandra"
+                ]
+            },
+            "elasticsearch": {
+                "aliases": [
+                    "elasticsearch",
+                    "elastic search",
+                    "elastic"
+                ]
+            },
+            "neo4j": {
+                "aliases": [
+                    "neo4j"
+                ]
+            }
+        }
+    },
+    "devops": {
+        "aliases": [
+            "devops",
+            "dev ops"
+        ],
+        "children": {
+            "ci/cd": {
+                "aliases": [
+                    "ci/cd",
+                    "continuous integration",
+                    "continuous deployment"
+                ]
+            },
+            "linux": {
+                "aliases": [
+                    "linux"
+                ]
+            },
+            "git": {
+                "aliases": [
+                    "git",
+                    "github",
+                    "gitlab"
+                ]
+            },
+            "aws": {
+                "aliases": [
+                    "aws",
+                    "amazon web services"
+                ]
+            },
+            "azure": {
+                "aliases": [
+                    "azure",
+                    "microsoft azure"
+                ]
+            },
+            "gcp": {
+                "aliases": [
+                    "gcp",
+                    "google cloud",
+                    "google cloud platform"
+                ]
+            },
+            "docker": {
+                "aliases": [
+                    "docker"
+                ]
+            },
+            "kubernetes": {
+                "aliases": [
+                    "kubernetes",
+                    "k8s"
+                ]
+            },
+            "jenkins": {
+                "aliases": [
+                    "jenkins"
+                ]
+            },
+            "terraform": {
+                "aliases": [
+                    "terraform"
+                ]
+            },
+            "ansible": {
+                "aliases": [
+                    "ansible"
+                ]
+            },
+            "prometheus": {
+                "aliases": [
+                    "prometheus"
+                ]
+            },
+            "grafana": {
+                "aliases": [
+                    "grafana"
+                ]
+            },
+            "helm": {
+                "aliases": [
+                    "helm"
+                ]
+            },
+            "openshift": {
+                "aliases": [
+                    "openshift"
+                ]
+            },
+            "nginx": {
+                "aliases": [
+                    "nginx"
+                ]
+            },
+            "apache": {
+                "aliases": [
+                    "apache",
+                    "apache http server"
+                ]
+            }
+        }
+    },
+    "inteligencia artificial": {
+        "aliases": [
+            "ia",
+            "ai",
+            "inteligencia artificial"
+        ],
+        "children": {
+            "chatgpt": {
+                "aliases": [
+                    "chatgpt",
+                    "chat gpt"
+                ]
+            },
+            "claude": {
+                "aliases": [
+                    "claude"
+                ]
+            },
+            "gemini": {
+                "aliases": [
+                    "gemini"
+                ]
+            },
+            "copilot": {
+                "aliases": [
+                    "copilot"
+                ]
+            },
+            "deepseek": {
+                "aliases": [
+                    "deepseek"
+                ]
+            },
+            "perplexity": {
+                "aliases": [
+                    "perplexity"
+                ]
+            },
+            "notebooklm": {
+                "aliases": [
+                    "notebooklm"
+                ]
+            },
+            "codex": {
+                "aliases": [
+                    "codex"
+                ]
+            },
+            "cursor": {
+                "aliases": [
+                    "cursor"
+                ]
+            },
+            "windsurf": {
+                "aliases": [
+                    "windsurf"
+                ]
+            },
+            "rpa": {
+                "aliases": [
+                    "rpa",
+                    "robotic process automation"
+                ]
+            },
+            "machine learning": {
+                "aliases": [
+                    "ml",
+                    "machine learning"
+                ]
+            },
+            "deep learning": {
+                "aliases": [
+                    "deep learning"
+                ]
+            },
+            "prompt engineering": {
+                "aliases": [
+                    "prompt engineering",
+                    "ingenieria de prompts",
+                    "ingenieria de prompt",
+                    "ingenieria del prompts"
+                ]
+            },
+            "llm": {
+                "aliases": [
+                    "llm",
+                    "large language model",
+                    "large language models"
+                ]
+            },
+            "nlp": {
+                "aliases": [
+                    "nlp",
+                    "natural language processing",
+                    "procesamiento de lenguaje natural"
+                ]
+            }
+        }
+    },
+    "ciberseguridad": {
+        "aliases": [
+            "ciberseguridad",
+            "seguridad informatica",
+            "cybersecurity",
+            "cyber security"
+        ],
+        "children": {
+            "pentesting": {
+                "aliases": [
+                    "pentesting",
+                    "penetration testing"
+                ]
+            },
+            "kali linux": {
+                "aliases": [
+                    "kali linux"
+                ]
+            },
+            "wireshark": {
+                "aliases": [
+                    "wireshark"
+                ]
+            },
+            "siem": {
+                "aliases": [
+                    "siem",
+                    "security information and event management"
+                ]
+            },
+            "fortinet": {
+                "aliases": [
+                    "fortinet"
+                ]
+            },
+            "cisco asa": {
+                "aliases": [
+                    "cisco asa"
+                ]
+            },
+            "checkpoint": {
+                "aliases": [
+                    "checkpoint"
+                ]
+            },
+            "firewall": {
+                "aliases": [
+                    "firewall",
+                    "firewalls"
+                ]
+            },
+            "antivirus": {
+                "aliases": [
+                    "antivirus"
+                ]
+            },
+            "iso 27001": {
+                "aliases": [
+                    "iso 27001"
+                ]
+            }
+        }
+    },
+    "networking": {
+        "aliases": [
+            "networking",
+            "infraestructura de red",
+            "administracion de redes",
+            "redes informaticas"
+        ],
+        "children": {
+            "cisco": {
+                "aliases": [
+                    "cisco"
+                ]
+            },
+            "mikrotik": {
+                "aliases": [
+                    "mikrotik"
+                ]
+            },
+            "tcp/ip": {
+                "aliases": [
+                    "tcp/ip"
+                ]
+            },
+            "vlan": {
+                "aliases": [
+                    "vlan"
+                ]
+            },
+            "routing": {
+                "aliases": [
+                    "routing",
+                    "enrutamiento"
+                ]
+            },
+            "switching": {
+                "aliases": [
+                    "switching",
+                    "conmutacion"
+                ]
+            },
+            "ccna": {
+                "aliases": [
+                    "ccna"
+                ]
+            },
+            "ccnp": {
+                "aliases": [
+                    "ccnp"
+                ]
+            }
+        }
+    },
+    "business intelligence": {
+        "aliases": [
+            "business intelligence",
+            "bi"
+        ],
+        "children": {
+            "sap": {
+                "aliases": [
+                    "sap"
+                ]
+            },
+            "erp": {
+                "aliases": [
+                    "erp"
+                ]
+            },
+            "crm": {
+                "aliases": [
+                    "crm"
+                ]
+            },
+            "dashboard": {
+                "aliases": [
+                    "dashboard",
+                    "dashboards"
+                ]
+            },
+            "tableau": {
+                "aliases": [
+                    "tableau"
+                ]
+            },
+            "looker studio": {
+                "aliases": [
+                    "looker studio",
+                    "google looker studio"
+                ]
+            },
+            "power bi": {
+                "aliases": [
+                    "power bi",
+                    "powerbi"
+                ]
+            },
+            "power apps": {
+                "aliases": [
+                    "power apps",
+                    "powerapps"
+                ]
+            },
+            "power pages": {
+                "aliases": [
+                    "power pages"
+                ]
+            },
+            "power automate": {
+                "aliases": [
+                    "power automate"
+                ]
+            },
+            "appsheet": {
+                "aliases": [
+                    "appsheet"
+                ]
+            }
+        }
+    },
+    "data analytics": {
+        "aliases": [
+            "data analytics",
+            "analisis de datos",
+            "analista de datos"
+        ],
+        "children": {
+            "etl/elt": {
+                "aliases": [
+                    "etl",
+                    "elt",
+                    "etl/elt",
+                    "elt/etl"
+                ]
+            },
+            "visualizacion de datos": {
+                "aliases": [
+                    "visualizacion de datos"
+                ]
+            },
+            "estadistica": {
+                "aliases": [
+                    "estadistica",
+                    "estadístico",
+                    "estadistica descriptiva"
+                ]
+            },
+            "minitab": {
+                "aliases": [
+                    "minitab"
+                ]
+            },
+            "data management": {
+                "aliases": [
+                    "data management",
+                    "gestion de datos"
+                ]
+            },
+            "kri": {
+                "aliases": [
+                    "kri",
+                    "indicadores de riesgo",
+                    "key risk indicators"
+                ]
+            },
+            "kpi": {
+                "aliases": [
+                    "kpi",
+                    "key performance indicator",
+                    "key performance indicators"
+                ]
+            },
+            "pandas": {
+                "aliases": [
+                    "pandas"
+                ]
+            },
+            "numpy": {
+                "aliases": [
+                    "numpy"
+                ]
+            },
+            "matplotlib": {
+                "aliases": [
+                    "matplotlib"
+                ]
+            },
+            "seaborn": {
+                "aliases": [
+                    "seaborn"
+                ]
+            }
+        }
+    },
+    "marketing": {
+        "aliases": [
+            "marketing"
+        ],
+        "children": {
+            "marketing digital": {
+                "aliases": [
+                    "marketing digital"
+                ]
+            },
+            "seo": {
+                "aliases": [
+                    "seo",
+                    "search engine optimization"
+                ]
+            },
+            "sem": {
+                "aliases": [
+                    "sem",
+                    "search engine marketing"
+                ]
+            },
+            "google ads": {
+                "aliases": [
+                    "google ads",
+                    "google adwords",
+                    "adwords"
+                ]
+            },
+            "meta ads": {
+                "aliases": [
+                    "meta ads",
+                    "facebook ads"
+                ]
+            },
+            "google analytics": {
+                "aliases": [
+                    "google analytics",
+                    "ga4"
+                ]
+            },
+            "email marketing": {
+                "aliases": [
+                    "email marketing"
+                ]
+            },
+            "community manager": {
+                "aliases": [
+                    "community manager"
+                ]
+            },
+            "social media": {
+                "aliases": [
+                    "social media",
+                    "social media management"
+                ]
+            },
+            "copywriting": {
+                "aliases": [
+                    "copywriting"
+                ]
+            },
+            "landing page": {
+                "aliases": [
+                    "landing page",
+                    "landing pages"
+                ]
+            },
+            "wordpress": {
+                "aliases": [
+                    "wordpress"
+                ]
+            },
+            "mailchimp": {
+                "aliases": [
+                    "mailchimp"
+                ]
+            },
+            "hubspot": {
+                "aliases": [
+                    "hubspot"
+                ]
+            },
+            "canva": {
+                "aliases": [
+                    "canva"
+                ]
+            },
+            "tiktok ads": {
+                "aliases": [
+                    "tiktok ads"
+                ]
+            },
+            "linkedin ads": {
+                "aliases": [
+                    "linkedin ads"
+                ]
+            },
+            "remarketing": {
+                "aliases": [
+                    "remarketing"
+                ]
+            },
+            "e-commerce": {
+                "aliases": [
+                    "ecommerce",
+                    "e-commerce"
+                ]
+            }
+        }
+    },
+    "ventas": {
+        "aliases": [
+            "ventas"
+        ],
+        "children": {
+            "televentas": {
+                "aliases": [
+                    "televentas"
+                ]
+            },
+            "cierre de ventas": {
+                "aliases": [
+                    "cierre de ventas"
+                ]
+            },
+            "negociacion": {
+                "aliases": [
+                    "negociacion"
+                ]
+            },
+            "cross selling": {
+                "aliases": [
+                    "cross selling"
+                ]
+            },
+            "upselling": {
+                "aliases": [
+                    "upselling",
+                    "up selling"
+                ]
+            },
+            "gestion comercial": {
+                "aliases": [
+                    "gestion comercial"
+                ]
+            },
+            "prospeccion": {
+                "aliases": [
+                    "prospeccion"
+                ]
+            },
+            "fidelizacion": {
+                "aliases": [
+                    "fidelizacion"
+                ]
+            },
+            "crm": {
+                "aliases": [
+                    "crm"
+                ]
+            },
+            "pipeline de ventas": {
+                "aliases": [
+                    "pipeline de ventas"
+                ]
+            }
+        }
+    },
+    "finanzas": {
+        "aliases": [
+            "finanzas"
+        ],
+        "children": {
+            "analisis financiero": {
+                "aliases": [
+                    "analisis financiero"
+                ]
+            },
+            "estados financieros": {
+                "aliases": [
+                    "estados financieros"
+                ]
+            },
+            "flujo de caja": {
+                "aliases": [
+                    "flujo de caja"
+                ]
+            },
+            "tesoreria": {
+                "aliases": [
+                    "tesoreria"
+                ]
+            },
+            "cuentas por cobrar": {
+                "aliases": [
+                    "cuentas por cobrar"
+                ]
+            },
+            "cuentas por pagar": {
+                "aliases": [
+                    "cuentas por pagar"
+                ]
+            },
+            "presupuestos": {
+                "aliases": [
+                    "presupuesto",
+                    "presupuestos"
+                ]
+            },
+            "conciliacion bancaria": {
+                "aliases": [
+                    "conciliacion bancaria"
+                ]
+            },
+            "planeamiento financiero": {
+                "aliases": [
+                    "planeamiento financiero"
+                ]
+            }
+        }
+    },
+    "contabilidad": {
+        "aliases": [
+            "contabilidad"
+        ],
+        "children": {
+            "costos": {
+                "aliases": [
+                    "costos"
+                ]
+            },
+            "tributacion": {
+                "aliases": [
+                    "tributacion"
+                ]
+            },
+            "auditoria": {
+                "aliases": [
+                    "auditoria"
+                ]
+            },
+            "liquidaciones": {
+                "aliases": [
+                    "liquidacion",
+                    "liquidaciones"
+                ]
+            },
+            "facturacion": {
+                "aliases": [
+                    "facturacion"
+                ]
+            },
+            "libros contables": {
+                "aliases": [
+                    "libros contables"
+                ]
+            },
+            "asientos contables": {
+                "aliases": [
+                    "asientos contables"
+                ]
+            },
+            "declaraciones juradas": {
+                "aliases": [
+                    "declaraciones juradas"
+                ]
+            },
+            "igv": {
+                "aliases": [
+                    "igv"
+                ]
+            }
+        }
+    },
+    "logistica": {
+        "aliases": [
+            "logistica"
+        ],
+        "children": {
+            "power automate": {
+                "aliases": [
+                    "power automate"
+                ]
+            },
+            "licitaciones": {
+                "aliases": [
+                    "licitacion",
+                    "licitaciones"
+                ]
+            },
+            "cotizaciones": {
+                "aliases": [
+                    "cotizacion",
+                    "cotizaciones"
+                ]
+            },
+            "compras": {
+                "aliases": [
+                    "compras"
+                ]
+            },
+            "abastecimiento": {
+                "aliases": [
+                    "abastecimiento"
+                ]
+            },
+            "proveedores": {
+                "aliases": [
+                    "proveedor",
+                    "proveedores"
+                ]
+            },
+            "orden de compra": {
+                "aliases": [
+                    "orden de compra",
+                    "ordenes de compra"
+                ]
+            }
+        }
+    },
+    "comercio exterior": {
+        "aliases": [
+            "comercio exterior"
+        ],
+        "children": {
+            "importaciones": {
+                "aliases": [
+                    "importacion",
+                    "importaciones"
+                ]
+            },
+            "exportaciones": {
+                "aliases": [
+                    "exportacion",
+                    "exportaciones"
+                ]
+            },
+            "aduanas": {
+                "aliases": [
+                    "aduanas",
+                    "gestion aduanera"
+                ]
+            },
+            "incoterms": {
+                "aliases": [
+                    "incoterms"
+                ]
+            },
+            "drawback": {
+                "aliases": [
+                    "drawback"
+                ]
+            },
+            "agente de carga": {
+                "aliases": [
+                    "agente de carga",
+                    "freight forwarder"
+                ]
+            },
+            "documentacion aduanera": {
+                "aliases": [
+                    "documentacion aduanera"
+                ]
+            },
+            "comex": {
+                "aliases": [
+                    "comex"
+                ]
+            }
+        }
+    },
+    "recursos humanos": {
+        "aliases": [
+            "recursos humanos",
+            "rrhh",
+            "rr.hh"
+        ],
+        "children": {
+            "reclutamiento": {
+                "aliases": [
+                    "reclutador",
+                    "practicante de reclutamiento",
+                    "coordinador de reclutamiento",
+                    "asistente de reclutamiento",
+                    "auxiliar de reclutamiento",
+                    "analista de reclutamiento",
+                    "encargado de reclutamiento",
+                    "coordinar procesos de reclutamiento",
+                    "conocimientos en reclutamiento",
+                    "conocimiento en proceso de reclutamiento",
+                    "conocimiento en procesos de reclutamiento",
+                    "conocimientos en procesos de reclutamiento",
+                    "conocimientos en proceso de reclutamiento",
+                    "experiencia en reclutamiento",
+                    "experiencia en procesos de reclutamiento",
+                    "herramientas de reclutamiento",
+                    "analista de seleccion",
+                    "practicante de seleccion",
+                    "coordinador de seleccion",
+                    "auxiliar de seleccion",
+                    "gestionar el proceso de seleccion",
+                    "gestion del proceso de seleccion"
+                ]
+            },
+            "legislacion laboral": {
+                "aliases": [
+                    "legislacion laboral"
+                ]
+            },
+            "onboarding": {
+                "aliases": [
+                    "onboarding"
+                ]
+            },
+            "evaluacion de desempeño": {
+                "aliases": [
+                    "evaluacion de desempeño"
+                ]
+            },
+            "head hunting": {
+                "aliases": [
+                    "headhunting",
+                    "head hunting"
+                ]
+            }
+        }
+    },
+    "atencion al cliente": {
+        "aliases": [
+            "atencion al cliente"
+        ],
+        "children": {
+            "orientacion al cliente": {
+                "aliases": [
+                    "orientacion al cliente"
+                ]
+            },
+            "manejo de reclamos": {
+                "aliases": [
+                    "manejo de reclamos",
+                    "reclamos"
+                ]
+            },
+            "servicio al cliente": {
+                "aliases": [
+                    "servicio al cliente"
+                ]
+            },
+            "call center": {
+                "aliases": [
+                    "call center"
+                ]
+            },
+            "fidelizacion": {
+                "aliases": [
+                    "fidelizacion"
+                ]
+            },
+            "cobranzas": {
+                "aliases": [
+                    "cobranzas"
+                ]
+            },
+            "ventas telefonicas": {
+                "aliases": [
+                    "ventas telefonicas"
+                ]
+            },
+            "prospeccion": {
+                "aliases": [
+                    "prospeccion"
+                ]
+            },
+            "telemarketing": {
+                "aliases": [
+                    "telemarketing"
+                ]
+            },
+            "postventa": {
+                "aliases": [
+                    "postventa",
+                    "post venta"
+                ]
+            },
+            "retencion de clientes": {
+                "aliases": [
+                    "retencion de clientes"
+                ]
+            },
+            "crm": {
+                "aliases": [
+                    "crm"
+                ]
+            }
+        }
+    },
+    "almacen": {
+        "aliases": [
+            "almacen",
+            "almacenes"
+        ],
+        "children": {
+            "cadena de suministro": {
+                "aliases": [
+                    "supply chain",
+                    "cadena de suministro"
+                ]
+            },
+            "inventario": {
+                "aliases": [
+                    "inventario",
+                    "inventarios",
+                    "control de inventarios",
+                    "gestion de inventarios",
+                    "gestion de inventario",
+                    "inventariado"
+                ]
+            },
+            "kardex": {
+                "aliases": [
+                    "kardex"
+                ]
+            },
+            "fifo": {
+                "aliases": [
+                    "fifo"
+                ]
+            },
+            "picking": {
+                "aliases": [
+                    "picking"
+                ]
+            },
+            "packing": {
+                "aliases": [
+                    "packing"
+                ]
+            },
+            "despacho": {
+                "aliases": [
+                    "despacho",
+                    "despachos"
+                ]
+            },
+            "montacargas": {
+                "aliases": [
+                    "montacarga",
+                    "montacargas"
+                ]
+            },
+            "wms": {
+                "aliases": [
+                    "wms",
+                    "warehouse management system"
+                ]
+            },
+            "recepcion de mercaderia": {
+                "aliases": [
+                    "recepcion de mercaderia"
+                ]
+            },
+            "almacenamiento": {
+                "aliases": [
+                    "almacenamiento"
+                ]
+            },
+            "reposicion": {
+                "aliases": [
+                    "reposicion"
+                ]
+            },
+            "distribucion": {
+                "aliases": [
+                    "distribucion"
+                ]
+            },
+            "cross docking": {
+                "aliases": [
+                    "cross docking",
+                    "cross-docking"
+                ]
+            },
+            "trazabilidad": {
+                "aliases": [
+                    "trazabilidad"
+                ]
+            },
+            "radiofrecuencia": {
+                "aliases": [
+                    "radiofrecuencia",
+                    "lectores rf",
+                    "lector rf",
+                    "handheld rf"
+                ]
+            },
+            "abc inventarios": {
+                "aliases": [
+                    "abc inventarios",
+                    "clasificacion abc"
+                ]
+            }
+        }
+    },
+    "diseño grafico": {
+        "aliases": [
+            "diseño grafico",
+            "diseñador grafico"
+        ],
+        "children": {
+            "photoshop": {
+                "aliases": [
+                    "photoshop"
+                ]
+            },
+            "illustrator": {
+                "aliases": [
+                    "illustrator"
+                ]
+            },
+            "indesign": {
+                "aliases": [
+                    "indesign"
+                ]
+            },
+            "coreldraw": {
+                "aliases": [
+                    "coreldraw",
+                    "corel draw"
+                ]
+            },
+            "after effects": {
+                "aliases": [
+                    "after effects"
+                ]
+            },
+            "lightroom": {
+                "aliases": [
+                    "lightroom"
+                ]
+            },
+            "canva": {
+                "aliases": [
+                    "canva"
+                ]
+            },
+            "figma": {
+                "aliases": [
+                    "figma"
+                ]
+            },
+            "diseño 3d": {
+                "aliases": [
+                    "diseño 3d",
+                    "modelado 3d"
+                ]
+            },
+            "blender": {
+                "aliases": [
+                    "blender"
+                ]
+            }
+        }
+    },
+    "produccion audiovisual": {
+        "aliases": [
+            "audiovisual",
+            "produccion audiovisual",
+            "edicion de video"
+        ],
+        "children": {
+            "adobe premiere": {
+                "aliases": [
+                    "premiere",
+                    "adobe premiere",
+                    "premiere pro"
+                ]
+            },
+            "after effects": {
+                "aliases": [
+                    "after effects"
+                ]
+            },
+            "pro tools": {
+                "aliases": [
+                    "pro tools",
+                    "protools"
+                ]
+            },
+            "capcut": {
+                "aliases": [
+                    "capcut"
+                ]
+            },
+            "filmora": {
+                "aliases": [
+                    "filmora"
+                ]
+            },
+            "davinci resolve": {
+                "aliases": [
+                    "davinci resolve"
+                ]
+            },
+            "final cut pro": {
+                "aliases": [
+                    "final cut pro"
+                ]
+            },
+            "audition": {
+                "aliases": [
+                    "adobe audition",
+                    "audition"
+                ]
+            }
+        }
+    },
+    "gestion industrial": {
+        "aliases": [
+            "control industrial",
+            "gestion industrial"
+        ],
+        "children": {
+            "plc": {
+                "aliases": [
+                    "plc"
+                ]
+            },
+            "scada": {
+                "aliases": [
+                    "scada"
+                ]
+            },
+            "dcs": {
+                "aliases": [
+                    "dcs"
+                ]
+            },
+            "bpm": {
+                "aliases": [
+                    "bpm",
+                    "business process management"
+                ]
+            },
+            "bpd": {
+                "aliases": [
+                    "bpd",
+                    "business process diagram"
+                ]
+            },
+            "sst": {
+                "aliases": [
+                    "sst",
+                    "seguridad y salud en el trabajo",
+                    "seguridad ocupacional"
+                ]
+            },
+            "kaizen": {
+                "aliases": [
+                    "kaizen"
+                ]
+            },
+            "5s": {
+                "aliases": [
+                    "5s"
+                ]
+            },
+            "oee": {
+                "aliases": [
+                    "oee",
+                    "overall equipment effectiveness"
+                ]
+            },
+            "gestion de riesgos": {
+                "aliases": [
+                    "gestion de riesgos",
+                    "analisis de riesgos"
+                ]
+            }
+        }
+    },
+    "metrologia": {
+        "aliases": [
+            "metrologia"
+        ],
+        "children": {
+            "micrometro": {
+                "aliases": [
+                    "micrometro"
+                ]
+            },
+            "alexometro": {
+                "aliases": [
+                    "alexometro",
+                    "alesometro"
+                ]
+            },
+            "multimetro": {
+                "aliases": [
+                    "multimetro"
+                ]
+            },
+            "megohmetro": {
+                "aliases": [
+                    "megohmetro"
+                ]
+            },
+            "telurometro": {
+                "aliases": [
+                    "telurometro"
+                ]
+            },
+            "pinza amperimetrica": {
+                "aliases": [
+                    "pinza amperimetrica"
+                ]
+            },
+            "calibrador vernier": {
+                "aliases": [
+                    "calibrador vernier",
+                    "vernier",
+                    "pie de rey"
+                ]
+            }
+        }
+    },
+    "cad": {
+        "aliases": [
+            "cad",
+            "ingenieria asistida por computadora"
+        ],
+        "children": {
+            "cnc": {
+                "aliases": [
+                    "cnc"
+                ]
+            },
+            "autocad": {
+                "aliases": [
+                    "autocad"
+                ]
+            },
+            "revit": {
+                "aliases": [
+                    "revit"
+                ]
+            },
+            "civil 3d": {
+                "aliases": [
+                    "civil 3d"
+                ]
+            },
+            "sketchup": {
+                "aliases": [
+                    "sketchup"
+                ]
+            },
+            "etabs": {
+                "aliases": [
+                    "etabs"
+                ]
+            },
+            "sap2000": {
+                "aliases": [
+                    "sap2000"
+                ]
+            },
+            "mastercam": {
+                "aliases": [
+                    "mastercam"
+                ]
+            },
+            "solidworks": {
+                "aliases": [
+                    "solidworks"
+                ]
+            },
+            "catia": {
+                "aliases": [
+                    "catia"
+                ]
+            },
+            "inventor": {
+                "aliases": [
+                    "inventor",
+                    "autodesk inventor"
+                ]
+            }
+        }
+    },
+    "mantenimiento industrial": {
+        "aliases": [
+            "mantenimiento industrial"
+        ],
+        "children": {
+            "mantenimiento preventivo": {
+                "aliases": [
+                    "mantenimiento preventivo"
+                ]
+            },
+            "mantenimiento correctivo": {
+                "aliases": [
+                    "mantenimiento correctivo"
+                ]
+            },
+            "electricidad industrial": {
+                "aliases": [
+                    "electricidad industrial"
+                ]
+            },
+            "instrumentacion": {
+                "aliases": [
+                    "instrumentacion"
+                ]
+            },
+            "lectura de planos": {
+                "aliases": [
+                    "lectura de planos",
+                    "interpretacion de planos"
+                ]
+            },
+            "soldadura": {
+                "aliases": [
+                    "soldadura"
+                ]
+            },
+            "neumatica": {
+                "aliases": [
+                    "neumatica"
+                ]
+            },
+            "hidraulica": {
+                "aliases": [
+                    "hidraulica"
+                ]
+            },
+            "lubricacion": {
+                "aliases": [
+                    "lubricacion"
+                ]
+            },
+            "motores electricos": {
+                "aliases": [
+                    "motores electricos"
+                ]
+            }
+        }
+    },
+    "alimentos": {
+        "aliases": [
+            "alimentos"
+        ],
+        "children": {
+            "cocina fria": {
+                "aliases": [
+                    "cocina fria"
+                ]
+            },
+            "cocina caliente": {
+                "aliases": [
+                    "cocina caliente"
+                ]
+            },
+            "cocina produccion": {
+                "aliases": [
+                    "cocina produccion"
+                ]
+            },
+            "comida peruana": {
+                "aliases": [
+                    "comida peruana",
+                    "cocina peruana",
+                    "alimentos peruanos"
+                ]
+            },
+            "comida oriental": {
+                "aliases": [
+                    "comida oriental",
+                    "comida asiatica",
+                    "comida china"
+                ]
+            },
+            "comida marina": {
+                "aliases": [
+                    "comida marina"
+                ]
+            },
+            "comida italiana": {
+                "aliases": [
+                    "comida italiana",
+                    "cocina italiana"
+                ]
+            },
+            "comida rapida": {
+                "aliases": [
+                    "comida rapida"
+                ]
+            },
+            "bartender": {
+                "aliases": [
+                    "bartender",
+                    "barismo"
+                ]
+            },
+            "cocteleria": {
+                "aliases": [
+                    "cocteleria",
+                    "coctel"
+                ]
+            },
+            "chifa": {
+                "aliases": [
+                    "chifa",
+                    "chaufero"
+                ]
+            },
+            "ceviche": {
+                "aliases": [
+                    "ceviche",
+                    "cebiche",
+                    "cevicheria",
+                    "cebicheria",
+                    "cevichero",
+                    "cebichero"
+                ]
+            },
+            "parrilla": {
+                "aliases": [
+                    "parrilla",
+                    "parrillero"
+                ]
+            },
+            "pasteleria": {
+                "aliases": [
+                    "pasteleria"
+                ]
+            },
+            "reposteria": {
+                "aliases": [
+                    "reposteria",
+                    "postres"
+                ]
+            },
+            "panaderia": {
+                "aliases": [
+                    "panaderia"
+                ]
+            },
+            "cafeteria": {
+                "aliases": [
+                    "cafeteria"
+                ]
+            },
+            "haccp": {
+                "aliases": [
+                    "haccp"
+                ]
+            },
+            "control de insumos": {
+                "aliases": [
+                    "control de insumos"
+                ]
+            },
+            "bpm alimentos": {
+                "aliases": [
+                    "buenas practicas de manufactura",
+                    "bpm alimentos"
+                ]
+            },
+            "mise en place": {
+                "aliases": [
+                    "mise en place"
+                ]
+            },
+            "porcionamiento": {
+                "aliases": [
+                    "porcionamiento"
+                ]
+            },
+            "manipulacion de alimentos": {
+                "aliases": [
+                    "manipulacion de alimentos"
+                ]
+            },
+            "inocuidad alimentaria": {
+                "aliases": [
+                    "inocuidad alimentaria"
+                ]
+            },
+            "catering": {
+                "aliases": [
+                    "catering"
+                ]
+            },
+            "buffet": {
+                "aliases": [
+                    "buffet"
+                ]
+            },
+            "polleria": {
+                "aliases": [
+                    "polleria",
+                    "pollo a la brasa"
+                ]
+            },
+            "pizza": {
+                "aliases": [
+                    "pizzeria",
+                    "pizza"
+                ]
+            }
+        }
+    },
+    "chofer": {
+        "aliases": [
+            "chofer",
+            "conductor"
+        ],
+        "children": {
+            "licencia a1": {
+                "aliases": [
+                    "a1",
+                    "brevete a1"
+                ]
+            },
+            "licencia a2a": {
+                "aliases": [
+                    "a2a",
+                    "brevete a2a"
+                ]
+            },
+            "licencia a2b": {
+                "aliases": [
+                    "a2b",
+                    "brevete a2b"
+                ]
+            },
+            "licencia a3a": {
+                "aliases": [
+                    "a3a",
+                    "brevete a3a"
+                ]
+            },
+            "licencia a3b": {
+                "aliases": [
+                    "a3b",
+                    "brevete a3b"
+                ]
+            },
+            "licencia a3c": {
+                "aliases": [
+                    "a3c",
+                    "brevete a3c"
+                ]
+            },
+            "transporte de personal": {
+                "aliases": [
+                    "transporte de personal"
+                ]
+            },
+            "transporte de carga": {
+                "aliases": [
+                    "transporte de carga"
+                ]
+            },
+            "manejo defensivo": {
+                "aliases": [
+                    "manejo defensivo",
+                    "conduccion defensiva"
+                ]
+            },
+            "mecanica basica": {
+                "aliases": [
+                    "mecanica basica"
+                ]
+            },
+            "rutas nacionales": {
+                "aliases": [
+                    "rutas nacionales"
+                ]
+            },
+            "camion cisterna": {
+                "aliases": [
+                    "camion cisterna"
+                ]
+            },
+            "camioneta 4x4": {
+                "aliases": [
+                    "4x4",
+                    "camioneta 4x4"
+                ]
+            },
+            "semitrailer": {
+                "aliases": [
+                    "semitrailer",
+                    "semi trailer"
+                ]
+            },
+            "mercancias peligrosas": {
+                "aliases": [
+                    "mercancias peligrosas",
+                    "materiales peligrosos"
+                ]
+            }
+        }
+    },
+    "limpieza": {
+        "aliases": [
+            "limpieza"
+        ],
+        "children": {
+            "limpieza del hogar": {
+                "aliases": [
+                    "limpieza del hogar",
+                    "limpieza de hogar",
+                    "limpieza de casa",
+                    "limpiar casa"
+                ]
+            },
+            "limpieza industrial": {
+                "aliases": [
+                    "limpieza industrial"
+                ]
+            },
+            "limpieza hospitalaria": {
+                "aliases": [
+                    "limpieza hospitalaria"
+                ]
+            },
+            "productos de limpieza": {
+                "aliases": [
+                    "productos de limpieza"
+                ]
+            },
+            "desinfeccion": {
+                "aliases": [
+                    "desinfeccion"
+                ]
+            },
+            "manejo de residuos": {
+                "aliases": [
+                    "manejo de residuos",
+                    "gestion de residuos"
+                ]
+            },
+            "lavado y encerado": {
+                "aliases": [
+                    "lavado y encerado"
+                ]
+            },
+            "limpieza de vidrios": {
+                "aliases": [
+                    "limpieza de vidrios"
+                ]
+            },
+            "limpieza de oficinas": {
+                "aliases": [
+                    "limpieza de oficinas"
+                ]
+            },
+            "limpieza de almacenes": {
+                "aliases": [
+                    "limpieza de almacenes"
+                ]
+            },
+            "limpieza de maquinaria": {
+                "aliases": [
+                    "limpieza de maquinaria"
+                ]
+            },
+            "lavanderia": {
+                "aliases": [
+                    "lavanderia"
+                ]
+            },
+            "aspiradora industrial": {
+                "aliases": [
+                    "aspiradora industrial"
+                ]
+            },
+            "hidrolavadora": {
+                "aliases": [
+                    "hidrolavadora"
+                ]
+            },
+            "maquinaria de limpieza": {
+                "aliases": [
+                    "maquinaria de limpieza"
+                ]
+            },
+            "control de insumos": {
+                "aliases": [
+                    "control de insumos"
+                ]
+            }
+        }
+    },
+    "ganaderia": {
+        "aliases": [
+            "ganaderia",
+            "ganadero"
+        ],
+        "children": {
+            "maquinaria ganadera": {
+                "aliases": [
+                    "maquinaria ganadera"
+                ]
+            },
+            "manejo de ganado": {
+                "aliases": [
+                    "manejo de ganado"
+                ]
+            },
+            "produccion lechera": {
+                "aliases": [
+                    "produccion lechera"
+                ]
+            },
+            "sanidad animal": {
+                "aliases": [
+                    "sanidad animal"
+                ]
+            },
+            "nutricion animal": {
+                "aliases": [
+                    "nutricion animal"
+                ]
+            },
+            "inseminacion artificial": {
+                "aliases": [
+                    "inseminacion artificial"
+                ]
+            },
+            "bienestar animal": {
+                "aliases": [
+                    "bienestar animal"
+                ]
+            },
+            "vacunacion animal": {
+                "aliases": [
+                    "vacunacion animal"
+                ]
+            },
+            "identificacion animal": {
+                "aliases": [
+                    "identificacion animal",
+                    "trazabilidad animal"
+                ]
+            },
+            "ordeño": {
+                "aliases": [
+                    "ordeño"
+                ]
+            },
+            "reproduccion animal": {
+                "aliases": [
+                    "reproduccion animal"
+                ]
+            },
+            "avicultura": {
+                "aliases": [
+                    "avicultura"
+                ]
+            },
+            "porcicultura": {
+                "aliases": [
+                    "porcicultura"
+                ]
+            },
+            "bovinos": {
+                "aliases": [
+                    "ganado bovino",
+                    "bovinos"
+                ]
+            },
+            "ovinos": {
+                "aliases": [
+                    "ovinos"
+                ]
+            }
+        }
+    },
+    "agricultura": {
+        "aliases": [
+            "agricultura",
+            "agricultor"
+        ],
+        "children": {
+            "maquinaria agricola": {
+                "aliases": [
+                    "maquinaria agricola"
+                ]
+            },
+            "riego tecnificado": {
+                "aliases": [
+                    "riego tecnificado"
+                ]
+            },
+            "fertirriego": {
+                "aliases": [
+                    "fertirriego"
+                ]
+            },
+            "control de plagas": {
+                "aliases": [
+                    "control de plagas",
+                    "fitosanidad"
+                ]
+            },
+            "cultivos": {
+                "aliases": [
+                    "cultivos"
+                ]
+            },
+            "agroquimicos": {
+                "aliases": [
+                    "agroquimicos"
+                ]
+            },
+            "fertilizantes": {
+                "aliases": [
+                    "fertilizantes"
+                ]
+            },
+            "manejo de viveros": {
+                "aliases": [
+                    "viveros",
+                    "manejo de viveros"
+                ]
+            },
+            "poda": {
+                "aliases": [
+                    "poda"
+                ]
+            },
+            "cosecha": {
+                "aliases": [
+                    "cosecha"
+                ]
+            },
+            "siembra": {
+                "aliases": [
+                    "siembra"
+                ]
+            },
+            "hidroponia": {
+                "aliases": [
+                    "hidroponia"
+                ]
+            },
+            "compostaje": {
+                "aliases": [
+                    "compostaje"
+                ]
+            },
+            "agricultura organica": {
+                "aliases": [
+                    "agricultura organica"
+                ]
+            },
+            "bpa": {
+                "aliases": [
+                    "buenas practicas agricolas",
+                    "bpa"
+                ]
+            },
+            "manejo integrado de plagas": {
+                "aliases": [
+                    "manejo integrado de plagas",
+                    "mip"
+                ]
+            },
+            "postcosecha": {
+                "aliases": [
+                    "postcosecha",
+                    "post cosecha"
+                ]
+            }
+        }
+    },
+    "medicina veterinaria": {
+        "aliases": [
+            "medicina veterinaria"
+        ],
+        "children": {
+            "cirugia veterinaria": {
+                "aliases": [
+                    "cirugia veterinaria"
+                ]
+            },
+            "vacunacion animal": {
+                "aliases": [
+                    "vacunacion",
+                    "vacunacion animal"
+                ]
+            },
+            "animales menores": {
+                "aliases": [
+                    "animales menores"
+                ]
+            },
+            "animales mayores": {
+                "aliases": [
+                    "animales mayores"
+                ]
+            },
+            "zootecnia": {
+                "aliases": [
+                    "zootecnia"
+                ]
+            },
+            "inseminacion artificial": {
+                "aliases": [
+                    "inseminacion artificial"
+                ]
+            },
+            "control sanitario": {
+                "aliases": [
+                    "control sanitario"
+                ]
+            },
+            "bienestar animal": {
+                "aliases": [
+                    "bienestar animal"
+                ]
+            },
+            "hospitalizacion": {
+                "aliases": [
+                    "hospitalizacion"
+                ]
+            },
+            "emergencias veterinarias": {
+                "aliases": [
+                    "emergencias veterinarias"
+                ]
+            },
+            "diagnostico por imagen": {
+                "aliases": [
+                    "diagnostico por imagen",
+                    "ecografia veterinaria",
+                    "radiografia veterinaria"
+                ]
+            },
+            "laboratorio veterinario": {
+                "aliases": [
+                    "laboratorio veterinario"
+                ]
+            },
+            "anestesia veterinaria": {
+                "aliases": [
+                    "anestesia veterinaria"
+                ]
+            },
+            "medicina preventiva": {
+                "aliases": [
+                    "medicina preventiva"
+                ]
+            },
+            "parasitologia": {
+                "aliases": [
+                    "parasitologia"
+                ]
+            },
+            "farmacologia veterinaria": {
+                "aliases": [
+                    "farmacologia veterinaria"
+                ]
+            },
+            "nutricion animal": {
+                "aliases": [
+                    "nutricion animal"
+                ]
+            },
+            "reproduccion animal": {
+                "aliases": [
+                    "reproduccion animal"
+                ]
+            },
+            "animales exoticos": {
+                "aliases": [
+                    "animales exoticos"
+                ]
+            },
+            "fauna silvestre": {
+                "aliases": [
+                    "fauna silvestre"
+                ]
+            },
+            "acuicultura": {
+                "aliases": [
+                    "acuicultura"
+                ]
+            },
+            "avicultura": {
+                "aliases": [
+                    "avicultura"
+                ]
+            },
+            "porcicultura": {
+                "aliases": [
+                    "porcicultura"
+                ]
+            },
+            "ganado bovino": {
+                "aliases": [
+                    "ganado bovino",
+                    "bovinos"
+                ]
+            },
+            "equinos": {
+                "aliases": [
+                    "equinos"
+                ]
+            },
+            "animales de compañia": {
+                "aliases": [
+                    "animales de compañia",
+                    "mascotas"
+                ]
+            }
+        }
+    },
+    "gestion de calidad": {
+        "aliases": [
+            "gestion de calidad",
+            "gestion de la calidad",
+            "sgc"
+        ],
+        "children": {
+            "control_de_calidad_industrial": {
+                "aliases": [
+                    "control de calidad",
+                    "aseguramiento de la calidad",
+                    "gestion de calidad",
+                    "garantizar la calidad",
+                    "control de procesos",
+                    "analista de calidad",
+                    "supervisor de calidad"
+                ]
+            },
+            "qa": {
+                "aliases": [
+                    "qa tester",
+                    "qa engineer",
+                    "quality assurance",
+                    "pruebas software",
+                    "pruebas funcionales",
+                    "automatizacion de pruebas",
+                    "selenium",
+                    "cypress"
+                ]
+            }
+        }
+    },
+    "idiomas": {
+        "aliases": [
+            "idiomas"
+        ],
+        "children": {
+            "ingles": {
+                "aliases": [
+                    "ingles"
+                ]
+            },
+            "portugues": {
+                "aliases": [
+                    "portugues"
+                ]
+            },
+            "frances": {
+                "aliases": [
+                    "frances"
+                ]
+            },
+            "italiano": {
+                "aliases": [
+                    "italiano"
+                ]
+            },
+            "aleman": {
+                "aliases": [
+                    "aleman"
+                ]
+            },
+            "chino": {
+                "aliases": [
+                    "chino",
+                    "mandarin"
+                ]
+            },
+            "japones": {
+                "aliases": [
+                    "japones"
+                ]
+            },
+            "ruso": {
+                "aliases": [
+                    "ruso"
+                ]
+            }
+        }
+    },
+    "mineria e hidrocarburos": {
+        "aliases": [
+            "mineria",
+            "hidrocarburos"
+        ],
+        "children": {
+            "geotecnia": {
+                "aliases": [
+                    "geotecnia",
+                    "estudios geotecnicos"
+                ]
+            },
+            "voladura": {
+                "aliases": [
+                    "voladura",
+                    "perforacion y voladura"
+                ]
+            },
+            "plantas concentradoras": {
+                "aliases": [
+                    "planta concentradora",
+                    "procesamiento de minerales"
+                ]
+            },
+            "muestreo geologico": {
+                "aliases": [
+                    "muestreo geologico",
+                    "logueo geologico"
+                ]
+            }
+        }
+    },
+    "textil y confeccion": {
+        "aliases": [
+            "textil",
+            "confeccion"
+        ],
+        "children": {
+            "costura recta": {
+                "aliases": [
+                    "maquina recta",
+                    "costura recta"
+                ]
+            },
+            "remalle": {
+                "aliases": [
+                    "remalladora",
+                    "remalle"
+                ]
+            },
+            "corte textil": {
+                "aliases": [
+                    "corte textil",
+                    "tizado"
+                ]
+            },
+            "control de calidad textil": {
+                "aliases": [
+                    "control de calidad textil",
+                    "auditoria de prendas"
+                ]
+            }
+        }
+    },
+    "obras civiles y edificacion": {
+        "aliases": [
+            "obras civiles",
+            "construccion civil"
+        ],
+        "children": {
+            "drywall": {
+                "aliases": [
+                    "drywall"
+                ]
+            },
+            "gasfiteria": {
+                "aliases": [
+                    "gasfiteria",
+                    "gasfitero"
+                ]
+            },
+            "encofrado": {
+                "aliases": [
+                    "encofrado",
+                    "encofrador"
+                ]
+            },
+            "fierreria civil": {
+                "aliases": [
+                    "fierrero civil",
+                    "armado de fierro"
+                ]
+            },
+            "lectura de planos civiles": {
+                "aliases": [
+                    "lectura de planos de arquitectura",
+                    "lectura de planos estructurales"
+                ]
+            },
+            "pintura de edificacion": {
+                "aliases": [
+                    "pintura de interiores",
+                    "pintura de fachadas"
+                ]
+            }
+        }
+    },
+    "instalaciones electricas y climatizacion": {
+        "aliases": [
+            "instalaciones electricas",
+            "sistemas de climatizacion"
+        ],
+        "children": {
+            "pozo a tierra": {
+                "aliases": [
+                    "pozo a tierra",
+                    "mantenimiento de pozo a tierra"
+                ]
+            },
+            "tableros electricos": {
+                "aliases": [
+                    "tableros electricos",
+                    "armado de tableros electricos"
+                ]
+            },
+            "subestaciones electricas": {
+                "aliases": [
+                    "subestaciones electricas"
+                ]
+            },
+            "sistemas contra incendio": {
+                "aliases": [
+                    "sistema contra incendio",
+                    "sistemas contra incendio"
+                ]
+            },
+            "refrigeracion y hvac": {
+                "aliases": [
+                    "refrigeracion industrial",
+                    "hvac",
+                    "aire acondicionado industrial"
+                ]
+            }
+        }
+    },
+    "mantenimiento de instalaciones y facilities": {
+        "aliases": [
+            "mantenimiento de infraestructura",
+            "mantenimiento de locaciones",
+            "facilities"
+        ],
+        "children": {
+            "mantenimiento de piscinas": {
+                "aliases": [
+                    "mantenimiento de piscinas",
+                    "operador de piscinas"
+                ]
+            },
+            "mantenimiento de ascensores": {
+                "aliases": [
+                    "mantenimiento de ascensores",
+                    "tecnico de ascensores"
+                ]
+            },
+            "mantenimiento de grupos electrogenos": {
+                "aliases": [
+                    "grupo electrogeno",
+                    "grupos electrogenos"
+                ]
+            },
+            "pintura industrial": {
+                "aliases": [
+                    "pintura industrial",
+                    "pintura electrostatica"
+                ]
+            }
+        }
+    }
+}
